@@ -1,0 +1,4 @@
+25/11/2014
+Esta versão tem a pare visual e mostra todos os conflitos duplos entre normas.
+Na verdade, ainda não mostra, mas no futuro mostrará com os desenvolvimento da aluna Daniela Yabe.
+Vários alterações em relação a versão "SimpleConflicts-CompareOnlyTwo-11-07-2014" e  "SimpleConflicts-ShowAll-13-08-2014"
